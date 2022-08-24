@@ -6,3 +6,5 @@ Languages i know currently
 
 1. C++
 2. SQL
+3. HTML
+4. JS
